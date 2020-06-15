@@ -1,0 +1,7 @@
+C:\Users\USUARIO\source\repos\EjemploLogQuinto\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\USUARIO\source\repos\EjemploLogQuinto\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\USUARIO\source\repos\EjemploLogQuinto\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\USUARIO\source\repos\EjemploLogQuinto\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\EjemploLogQuinto\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\EjemploLogQuinto\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\USUARIO\source\repos\EjemploLogQuinto\CapaDatos\obj\Debug\CapaDatos.pdb

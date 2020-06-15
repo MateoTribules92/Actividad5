@@ -1,0 +1,69 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Usuarios.master.cs" Inherits="EjemploLogQuinto.Usuarios" %>
+
+<!DOCTYPE html>
+<html>
+<head>
+    	
+	        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<!--
+
+Template 2091 Ziggy
+
+http://www.tooplate.com/view/2091-ziggy
+
+-->
+ 
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+        <link rel="stylesheet" href="tem/css/bootstrap.min.css">
+        <link rel="stylesheet" href="tem/css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="tem/css/fontAwesome.css">
+        <link rel="stylesheet" href="tem/css/tooplate-style.css">
+
+        <script src="tem/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+
+    <link href="Estilos/css/main.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript">
+
+        function SoloNum(e) {
+            var key_press = document.all ? key_press = e.keyCode : key_press = e.which;
+            return ((key_press > 47 && key_press < 58) || key_press == 46);
+            // el  "|| key_press == 46" es para incluir el punto ".", si borramos solo ingresara enteros 
+        }
+        </script> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 106px;
+        }
+        .auto-style2 {
+            width: 237px;
+        }
+    </style>
+
+
+     <asp:ContentPlaceHolder ID="Cabezera" runat="server">
+    </asp:ContentPlaceHolder>
+
+   </head>
+
+    
+<body>
+        <form runat="server">
+        <asp:ContentPlaceHolder ID="cph_mensaje" runat="server">
+
+         </asp:ContentPlaceHolder>
+         <asp:ContentPlaceHolder ID="Contenido" runat="server">
+        
+         </asp:ContentPlaceHolder>    
+   </form>
+
+</body>
+
+</html>
